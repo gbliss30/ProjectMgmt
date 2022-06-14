@@ -16,4 +16,6 @@ and the client with:
 
 `cd client`
 
+`npm install`
+
 `npm run start`
